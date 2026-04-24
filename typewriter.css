@@ -38,3 +38,12 @@
         border-color: pink;
     }
 }
+
+/* Extra Stlying to get things looking right */
+
+.typer-style {
+    color: #FFE1FF;
+    font-weight: normal;
+    font-family: 'VT323';
+    text-shadow: -2px 2px 2px #4F2F4F;
+}
